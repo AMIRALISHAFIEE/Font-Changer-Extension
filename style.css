@@ -1,0 +1,27 @@
+@font-face {
+    font-family: vazir;
+    src: url(../fonts/vazir.woff2);
+}
+*{
+    box-sizing: border-box;
+    font-family: vazir;
+}
+body{
+    width: 250px;
+    height: 200px;
+    padding: .5rem;
+}
+
+.div-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body .container{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+    flex-direction: column;
+}
