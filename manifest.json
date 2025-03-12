@@ -1,6 +1,6 @@
 {
-    "name": "Hello Extensions",
-    "description": "Base Level Extension",
+    "name": "font and size changer",
+    "description": "Easily change the font and text size.",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
